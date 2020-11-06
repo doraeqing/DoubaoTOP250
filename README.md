@@ -1,7 +1,7 @@
 # DoubaoTOP250
 豆瓣电影TOP250爬虫
 
-学习Python爬虫，内部注释比较全
+学习Python爬虫，内部代码注释比较全
 
 依赖三方包：requests、BeautifulSoup、pandas、pprint
 1. 使用requests爬取网页
